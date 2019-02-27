@@ -1,17 +1,30 @@
 # Java从零单排
 
->这是一份从零开始学习Java中的笔记  
+这是一份从零开始学习Java中的笔记  
 From 2019.2.27
 
-## 现状：
-Java核心语法  
-Todo：JavaWeb 
+## 学习路线及现状：
+- [x] Java核心语法  
+- [] JavaWeb 
+- [] Struts2
+- [] Spring
+- [] SpringMVC
+- [] ORM框架
+- [] SpringBoot
+- [] 关系数据库
+- [] NoSQL
+- [] 中间件
+- [] 数据结构
+- [] 大数据
+- [] 深度学习
+
 
 ## 学习资料
 ### GitHub
 [`JavaGuide`](https://github.com/Snailclimb/JavaGuide)
 [`EasyJob`](https://github.com/it-interview/EasyJob)
 [`cys面试基础知识`](https://github.com/CyC2018/CS-Notes)
+[`java-bible`](https://github.com/biezhi/java-bible)
 ### 书籍
 
 ### wx公众号
