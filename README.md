@@ -5,18 +5,18 @@ From 2019.2.27
 
 ## 学习路线及现状：
 - [x] Java核心语法  
-- [] JavaWeb 
-- [] Struts2
-- [] Spring
-- [] SpringMVC
-- [] ORM框架
-- [] SpringBoot
-- [] 关系数据库
-- [] NoSQL
-- [] 中间件
-- [] 数据结构
-- [] 大数据
-- [] 深度学习
+- [ ] JavaWeb 
+- [ ] Struts2
+- [ ] Spring
+- [ ] SpringMVC
+- [ ] ORM框架
+- [ ] SpringBoot
+- [ ] 关系数据库
+- [ ] NoSQL
+- [ ] 中间件
+- [ ] 数据结构
+- [ ] 大数据
+- [ ] 深度学习
 
 
 ## 学习资料
