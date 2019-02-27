@@ -1,6 +1,6 @@
 # Java从零单排
 
-这是一份从零开始学习Java的笔记，在这个过程中的一切都会记录在这里
+这是一份从零开始学习Java的笔记，在这个过程中的一切都会记录在这儿  
 From 2019.2.27
 
 ## 学习路线及现状：
@@ -21,9 +21,9 @@ From 2019.2.27
 
 ## 学习资料
 ### GitHub
-[`JavaGuide`](https://github.com/Snailclimb/JavaGuide)
-[`EasyJob`](https://github.com/it-interview/EasyJob)
-[`cys面试基础知识`](https://github.com/CyC2018/CS-Notes)
+[`JavaGuide`](https://github.com/Snailclimb/JavaGuide)  
+[`EasyJob`](https://github.com/it-interview/EasyJob)  
+[`cys面试基础知识`](https://github.com/CyC2018/CS-Notes)  
 [`java-bible`](https://github.com/biezhi/java-bible)
 ### 书籍
 
